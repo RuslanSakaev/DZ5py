@@ -1,3 +1,5 @@
+# 2. Создайте программу для игры в ""Крестики-нолики"".(в консоли происходит выбор позиции)
+
 from random import randint
 from random import choice
 from os import system
